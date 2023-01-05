@@ -9,7 +9,7 @@ In the past years, there has been many technological advancements in the medical
 These are devices that people wear to follow up their health situation and also exercise activities. These include the smart watches like the Apple smartwatch, and these are one of the most important things that has helped many people to live longer and even reduce the high numbers of patients in the hospital waiting for health workers advice, because the patients themselves can monitor their own blood pressure, respiratory rate and even their oxygen levels, hence no need of waiting for medical assistance for such procedures.
 
 
-![alt.text](https://labs.openai.com/s/eJtBHChiOTz7YEniif7iClhs)
+! [alt.text](https://labs.openai.com/s/eJtBHChiOTz7YEniif7iClhs)
 
 
 
